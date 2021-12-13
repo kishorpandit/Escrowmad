@@ -1,0 +1,14 @@
+package com.cg.eis.service.impl;
+
+import com.cg.eis.Employee;
+import com.cg.eis.service.IEmployeeService;
+
+public class EmployeeImpl implements IEmployeeService {
+
+	@Override
+	public float empAge(Employee employee) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
