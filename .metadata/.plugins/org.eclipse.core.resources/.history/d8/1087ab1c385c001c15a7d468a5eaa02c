@@ -8,8 +8,6 @@ public class SpringBootMiniProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMiniProjectApplication.class, args);
-		
-		System.out.println("My name is kishor.");
 	}
 
 }
